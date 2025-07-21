@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226177595441",
+    "project_id": "edupapers-lk",
+    "storage_bucket": "edupapers-lk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226177595441:android:46ef2844f9f5920e413d10",
+        "android_client_info": {
+          "package_name": "com.example.sriedu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTXxTj-IZI507XX_slERxQ57gmJTzFDvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
